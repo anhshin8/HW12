@@ -1,0 +1,49 @@
+.header {
+    align-items: center;
+}
+.nav-to-articles-padding {
+    padding-top: 15px;
+}
+.top-border {
+    padding-top: 20px;
+    border-top: 1px solid lightgrey;
+    margin-top: 20px;
+}
+.top-border-thick {
+    padding-top: 15px;
+    border-top: 3px solid black;
+    margin-top: 0px;
+}
+.bottom-border {
+    padding-bottom: 0px;
+    border-bottom: 1px solid lightgrey;
+}
+.bottom-border-thick {
+    border-bottom: 3px solid lightgrey;
+}
+#black-text-small a{
+    color: black;
+    font-size: small;
+}
+.row-articles {
+    max-width: 100%;
+}
+.margin-top {
+    margin-top: 10px;
+}
+.margin-bottom {
+    margin-bottom: 10px;
+}
+.right-border {
+    border-right: 1px solid lightgrey;
+}
+.article-author {
+    color: grey;
+    text-transform: uppercase;
+}
+.list-text {
+    font-size: 11px;
+}
+.max-width {
+    max-width: 100px;
+}
